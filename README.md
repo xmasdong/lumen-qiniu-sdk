@@ -1,8 +1,10 @@
-# Qiniu 云储存 Laravel 5 Storage版
+# Qiniu 云储存 Laravel 5 -lumen Storage版
 
 基于 https://github.com/qiniu/php-sdk 开发
 
 符合Laravel 5 的Storage用法。
+
+在原本的基础上改了Storage引入方式，以适配lumen
 
 ## 更新
 
